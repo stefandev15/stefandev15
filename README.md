@@ -1,5 +1,13 @@
-### Salut <img src="https://raw.githubusercontent.com/jefestef/jefestef/master/wave.gif" width="30px">
+![Header](https://raw.githubusercontent.com/jefestef/jefestef/master/rijic_banner.png "Header")
 
+# Bun  venit pe contul meu <img src="https://raw.githubusercontent.com/jefestef/jefestef/master/wave.gif" width="40px">
+- 💙 Mă numesc Ștefan și sunt un mic developer în devenire din Moldova
+- 📜 Cunosc lua javascript java c#
+- 🔭 Momentan lucrez la crearea jocurilor in [Unity](https://unity.com/)
+- 🎮 Îmi place: 
+             - să ma joc
+             - să fac sport
+             - să ies cu bicicleta
 <!--
 **jefestef/jefestef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
