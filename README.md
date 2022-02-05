@@ -2,12 +2,9 @@
 
 # Bun  venit pe contul meu <img src="https://raw.githubusercontent.com/jefestef/jefestef/master/wave.gif" width="40px">
 - 💙 Mă numesc Ștefan și sunt un mic developer în devenire din Moldova
-- 📜 Cunosc lua javascript java c#
+- 📜 Cunosc lua - javascript - java - c#
 - 🔭 Momentan lucrez la crearea jocurilor in [Unity](https://unity.com/)
-- 🎮 Îmi place: 
-             - să ma joc
-             - să fac sport
-             - să ies cu bicicleta
+- 🎮 Îmi place: - să ma joc - să fac sport - să ies cu bicicleta
 
 [![windows11](https://img.shields.io/badge/Windows%2011-9cf?style=for-the-badge&logo=Windows)](https://www.microsoft.com/software-download/windows11)
 [![i511600k](https://img.shields.io/badge/Core%20i5%2011600k-blue?style=for-the-badge&logo=Intel)](https://www.newegg.com/intel-core-i5-11600k-core-i5-11th-gen/p/N82E16819118235)
