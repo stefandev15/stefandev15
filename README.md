@@ -9,7 +9,7 @@
              - să fac sport
              - să ies cu bicicleta
 
-[![windows11](https://img.shields.io/badge/Windows%2011-9cf?style=for-the-badge&logo=Windows)]
+[![windows11](https://img.shields.io/badge/Windows%2011-9cf?style=for-the-badge&logo=Windows)](https://www.microsoft.com/software-download/windows11)
 [![i511600k](https://img.shields.io/badge/Core%20i5%2011600k-blue?style=for-the-badge&logo=Intel)](https://www.newegg.com/intel-core-i5-11600k-core-i5-11th-gen/p/N82E16819118235)
 [![gtx1660ti](https://img.shields.io/badge/GTX%201660ti-green?style=for-the-badge&logo=NVIDIA)](https://www.newegg.com/gigabyte-geforce-gtx-1660-ti-gv-n166toc-6gd/p/1FT-00B5-00012)
 [![vengeance](https://img.shields.io/badge/Vengeance%20LPX%2016GB%203200Mhz-grey?style=for-the-badge&logo=Corsair)](https://www.newegg.com/corsair-16gb-288-pin-ddr4-sdram/p/N82E16820236540)
