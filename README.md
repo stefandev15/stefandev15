@@ -10,7 +10,7 @@
              - să ies cu bicicleta
 
 ![windows11](https://img.shields.io/badge/Windows%2011-9cf?style=for-the-badge&logo=Windows)
-![i511600k](https://img.shields.io/badge/Core%20i5%2011600k-blue?style=for-the-badge&logo=Intel)
+[![i511600k](https://img.shields.io/badge/Core%20i5%2011600k-blue?style=for-the-badge&logo=Intel)](https://www.newegg.com/intel-core-i5-11600k-core-i5-11th-gen/p/N82E16819118235)
 ![gtx1660ti](https://img.shields.io/badge/GTX%201660ti-green?style=for-the-badge&logo=NVIDIA)
 ![vengeance](https://img.shields.io/badge/Vengeance%20LPX%2016GB%203200Mhz-grey?style=for-the-badge&logo=Corsair)
 ![970evoplus](https://img.shields.io/badge/EVO%20Plus%20500GB-orange?style=for-the-badge&logo=Samsung)
