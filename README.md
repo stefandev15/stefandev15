@@ -3,7 +3,7 @@
 # <img src="https://raw.githubusercontent.com/jefestef/jefestef/master/wave.gif" width="40px"> Bun venit pe contul meu
 [![Github](https://img.shields.io/github/followers/jefestef?label=Followers&logo=Github)](https://github.com/jefestef)
 [![Repos Badge](https://badges.pufler.dev/repos/jefestef?color=blue&logo=GitBook)](https://github.com/jefestef)
-- :blue_heart: Mă numesc Ștefan și sunt un mic developer în devenire din Moldova
+- :blue_heart: Îmi place să programez!
 - :scroll: Cunosc lua - javascript - java - c#
 - :telescope: Momentan lucrez la crearea jocurilor in [Unity](https://unity.com/)
 - :video_game: Îmi place: - să ma joc - să fac sport - să ies cu bicicleta
