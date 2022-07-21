@@ -2,11 +2,9 @@
 
 # <img src="https://raw.githubusercontent.com/jefestef/jefestef/master/wave.gif" height="40px"> Bun venit pe contul meu
 [![Github](https://img.shields.io/github/followers/jefestef?label=Followers&logo=Github)](https://github.com/jefestef)
-[![Repos Badge](https://badges.pufler.dev/repos/jefestef?color=blue&logo=GitBook)](https://github.com/jefestef)
 - :blue_heart: Îmi place să programez!
-- :scroll: Cunosc lua - javascript - java - c#
-- :telescope: Momentan lucrez la crearea jocurilor in [Unity](https://unity.com/)
-- :video_game: Îmi place: - să ma joc - să fac sport - să ies cu bicicleta
+- :scroll: Cunosc lua - [lua] - [js, jsx] - [SQL] - [html, css, scss] - [c#] - [java]
+- :telescope: Momentan lucrez la web-aplicatiilor in [React](https://reactjs.org/)
 
 ## :desktop_computer:  My PC:
 [![windows11](https://img.shields.io/badge/Windows%2011-9cf?style=for-the-badge&logo=Windows)](https://www.microsoft.com/software-download/windows11)
