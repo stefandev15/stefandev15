@@ -7,6 +7,7 @@
 - :telescope: Momentan lucrez la crearea web-aplicatiilor in [React](https://reactjs.org/)
 
 ## :desktop_computer:  My PC:
+[![macbook](https://img.shields.io/badge/Macbook%20Air%20M2-lightgray?style=for-the-badge&logo=Apple)](https://www.apple.com/mac/)
 [![windows11](https://img.shields.io/badge/Windows%2011-9cf?style=for-the-badge&logo=Windows)](https://www.microsoft.com/software-download/windows11)
 [![i511600k](https://img.shields.io/badge/Core%20i5%2011600k-blue?style=for-the-badge&logo=Intel)](https://www.newegg.com/intel-core-i5-11600k-core-i5-11th-gen/p/N82E16819118235)
 [![gtx1660ti](https://img.shields.io/badge/GTX%201660ti-green?style=for-the-badge&logo=NVIDIA)](https://www.newegg.com/gigabyte-geforce-gtx-1660-ti-gv-n166toc-6gd/p/1FT-00B5-00012)
