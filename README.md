@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/jefestef/jefestef/master/rijic_banner.png "Header")
 
-# <img src="https://raw.githubusercontent.com/jefestef/jefestef/master/wave.gif" height="40px"> Bun venit pe contul meu
+# <img src="https://raw.githubusercontent.com/jefestef/jefestef/master/wave.gif" height="48px" width="48px"> Bun venit pe contul meu
 [![Github](https://img.shields.io/github/followers/jefestef?label=Followers&logo=Github)](https://github.com/jefestef)
 - :blue_heart: Îmi place să programez!
 - :scroll: Cunosc lua - [lua] - [js, jsx] - [SQL] - [html, css, scss] - [c#] - [java]
