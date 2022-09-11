@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/jefestef?label=Followers&logo=Github)](https://github.com/jefestef)
 - :blue_heart: Îmi place să programez!
 - :scroll: Cunosc lua - [lua] - [js, jsx] - [SQL] - [html, css, scss] - [c#] - [java]
-- :telescope: Momentan lucrez la web-aplicatiilor in [React](https://reactjs.org/)
+- :telescope: Momentan lucrez la crearea web-aplicatiilor in [React](https://reactjs.org/)
 
 ## :desktop_computer:  My PC:
 [![windows11](https://img.shields.io/badge/Windows%2011-9cf?style=for-the-badge&logo=Windows)](https://www.microsoft.com/software-download/windows11)
