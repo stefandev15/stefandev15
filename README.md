@@ -1,7 +1,7 @@
-![Header](https://raw.githubusercontent.com/stefandev/stefandev/master/rijic_banner.png "Header")
+![Header](https://raw.githubusercontent.com/stefandev15/stefandev15/master/rijic_banner.png "Header")
 
-# <img src="https://raw.githubusercontent.com/stefandev/stefandev/master/wave.gif" height="48px" width="48px"> Bun venit pe contul meu
-[![Github](https://img.shields.io/github/followers/stefandev?label=Followers&logo=Github)](https://github.com/stefandev)
+# <img src="https://raw.githubusercontent.com/stefandev15/stefandev15/master/wave.gif" height="48px" width="48px"> Bun venit pe contul meu
+[![Github](https://img.shields.io/github/followers/stefandev15?label=Followers&logo=Github)](https://github.com/stefandev15)
 - :blue_heart: Îmi place să programez!
 - :scroll: Cunosc lua - [lua] - [js] - [SQL] - [html, css, scss] - [c#] - [java]
 - :telescope: Momentan lucrez la crearea web-aplicatiilor in [React](https://reactjs.org/)
@@ -35,10 +35,10 @@
 ## :bar_chart:  Statisticele mele:
 
 <div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=stefandev&hide=php&theme=city_lights">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefandev&hide=php&theme=city_lights" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=stefandev15&hide=php&theme=city_lights">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefandev15&hide=php&theme=city_lights" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=stefandev&theme=city_lights">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=stefandev&count_private=true&show_icons=true&theme=city_lights" />
+  <a href="https://github-readme-stats.vercel.app/api?username=stefandev15&theme=city_lights">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=stefandev15&count_private=true&show_icons=true&theme=city_lights" />
   </a>
 </div>
