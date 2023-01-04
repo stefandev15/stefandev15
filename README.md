@@ -3,7 +3,7 @@
 # <img src="https://raw.githubusercontent.com/stefandev15/stefandev15/master/wave.gif" height="48px" width="48px"> Bun venit pe contul meu
 [![Github](https://img.shields.io/github/followers/stefandev15?label=Followers&logo=Github)](https://github.com/stefandev15)
 - :blue_heart: Îmi place să programez!
-- :scroll: Cunosc lua - [lua] - [js] - [SQL] - [html, css, scss] - [c#] - [java]
+- :scroll: Cunosc lua - [js, ts] - [lua] - [SQL] - [html, css, scss] - [c#] - [java]
 - :telescope: Momentan lucrez la crearea web-aplicatiilor in [React](https://reactjs.org/)
 
 ## :desktop_computer:  My PC:
