@@ -2,11 +2,11 @@
 
 # <img src="https://raw.githubusercontent.com/stefandev15/stefandev15/master/wave.gif" height="48px" width="48px"> Bun venit pe contul meu
 [![Github](https://img.shields.io/github/followers/stefandev15?label=Followers&logo=Github)](https://github.com/stefandev15)
-- :blue_heart: Îmi place să programez!
-- :scroll: Cunosc lua - [js, ts] - [lua] - [SQL] - [html, css, scss] - [c#] - [java]
-- :telescope: Momentan lucrez la crearea web-aplicatiilor in [React](https://reactjs.org/)
+- Programming Languages - [ts, js] - [lua] - [SQL] - [html, css, scss] - [python] - [c#] - [java] - [asp]
+- Technologies - [Reactjs](https://reactjs.org/), [Nextjs](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/), [Nodejs](https://nodejs.org/)
+- Tools & Databases - [VSCode](https://code.visualstudio.com/), [Git](https://git-scm.com/), [MySQL](https://www.mysql.com/), [Prisma](https://www.prisma.io/)
 
-## :desktop_computer:  My PC:
+## :desktop_computer:  PC:
 <!-- [![macbook](https://img.shields.io/badge/Macbook%20Air%20M2-lightgray?style=for-the-badge&logo=Apple)](https://www.apple.com/mac/) -->
 [![windows11](https://img.shields.io/badge/Windows%2011-9cf?style=for-the-badge&logo=Windows)](https://www.microsoft.com/software-download/windows11)
 [![i511600k](https://img.shields.io/badge/Core%20i5%2011600k-blue?style=for-the-badge&logo=Intel)](https://www.newegg.com/intel-core-i5-11600k-core-i5-11th-gen/p/N82E16819118235)
@@ -32,7 +32,7 @@
   </tr>
  </table>
 
-## :bar_chart:  Statisticele mele:
+## :bar_chart:  Statistics:
 
 <div>
 <!--   <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stefandev15&hide=php&theme=city_lights">
