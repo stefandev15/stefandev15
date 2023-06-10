@@ -16,21 +16,6 @@
 [![b560mplus](https://img.shields.io/badge/TUF%20GAMING%20B560M%20PLUS%20WIFI-yellow?style=for-the-badge&logo=ASUS)](https://www.newegg.com/p/N82E16813119383)
 [![seasonic](https://img.shields.io/badge/Seasonic%20FOCUS%20PX%20750-silver?style=for-the-badge)](https://www.newegg.com/seasonic-focus-plus-750-platinum-ssr-750px-750w/p/N82E16817151191)
 
-## :hugs: Projects I'm proud of:
-
-<table>
-  <tr>
-    <td>FiveM Control Panel</td>
-     <td>FiveM Police Shop Script</td>
-     <td>FiveM Darkmarket Script</td>
-  </tr>
-  <tr>
-    <td><img src="panel_prev.png"></td>
-    <td><img src="politie_prev.png" height=200 width=1500></td>
-    <td><img src="ilegale_prev.png"></td>
-  </tr>
- </table>
-
 ## :bar_chart:  Statistics:
 
 <div>
