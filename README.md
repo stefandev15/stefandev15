@@ -20,5 +20,5 @@
 
 <div>
     <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=stefandev15&count_private=true&show_icons=true&theme=city_lights" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefandev15&layout=compact" />
 </div>
